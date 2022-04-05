@@ -1,0 +1,25 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "this code is basically for learning purpose ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilshadazam/NODE_CRASH_COURSE.git"
+  },
+  "author": "Dilshad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilshadazam/NODE_CRASH_COURSE/issues"
+  },
+  "homepage": "https://github.com/dilshadazam/NODE_CRASH_COURSE#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
